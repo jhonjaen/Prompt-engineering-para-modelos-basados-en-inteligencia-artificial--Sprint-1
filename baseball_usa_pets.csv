@@ -1,36 +1,30 @@
-Aquí tienes una lista de algunos equipos de béisbol de Estados Unidos, incluyendo su nombre, apodo, año de fundación y el nombre de su respectiva mascota:
-
-| **Equipo**                      | **Apodo**       | **Año de Fundación** | **Mascota**           |
-|----------------------------------|-----------------|----------------------|-----------------------|
-| New York Yankees                 | Yankees         | 1901                 | "Yankee" (desconocido) |
-| Boston Red Sox                   | Red Sox         | 1901                 | Wally the Green Monster|
-| Los Angeles Dodgers              | Dodgers         | 1883                 | "Dodger" (desconocido) |
-| Chicago Cubs                     | Cubs            | 1876                 | Clark                 |
-| San Francisco Giants             | Giants          | 1883                 | Lou Seal              |
-| St. Louis Cardinals              | Cardinals       | 1882                 | Fredbird              |
-| Houston Astros                   | Astros          | 1962                 | Orbit                 |
-| Philadelphia Phillies            | Phillies        | 1883                 | Phillie Phanatic      |
-| Atlanta Braves                   | Braves          | 1871                 | Blooper               |
-| Cleveland Guardians              | Guardians       | 1901                 | Slider                |
-| Texas Rangers                    | Rangers         | 1961                 | Rangers Captain       |
-| Miami Marlins                    | Marlins         | 1993                 | Billy the Marlin      |
-| Milwaukee Brewers                | Brewers         | 1969                 | Bernie Brewer         |
-| Washington Nationals             | Nationals       | 1969                 | Screech               |
-| Arizona Diamondbacks             | Diamondbacks    | 1998                 | D. Baxter the Bobcat  |
-| Kansas City Royals               | Royals          | 1969                 | Sluggerrr             |
-| Baltimore Orioles                | Orioles         | 1901                 | The Oriole Bird       |
-| Tampa Bay Rays                   | Rays            | 1998                 | Raymond               |
-| Minnesota Twins                  | Twins           | 1901                 | T.C. Bear             |
-| Colorado Rockies                 | Rockies         | 1993                 | Dinger                |
-| Seattle Mariners                 | Mariners        | 1977                 | Mariner Moose         |
-| Toronto Blue Jays                | Blue Jays       | 1977                 | Ace                   |
-| Oakland Athletics                | Athletics (A's) | 1901                 | Stomper               |
-| Detroit Tigers                   | Tigers          | 1894                 | Paws                  |
-| Pittsburgh Pirates               | Pirates         | 1882                 | Pirate Parrot         |
-| San Diego Padres                 | Padres          | 1969                 | Swinging Friar        |
-| Los Angeles Angels               | Angels          | 1961                 | Rally Monkey          |
-| Cincinnati Reds                  | Reds            | 1881                 | Mr. Red               |
-| Chicago White Sox                | White Sox       | 1900                 | Southpaw              |
-
-En algunos casos, como los Yankees y los Dodgers, no se identifica claramente una mascota oficial, por lo que se ha marcado como "desconocido".
-
+Equipo,Apodo,Año de Fundación,Mascota
+New York Yankees,Yankees,1901,desconocido
+Boston Red Sox,Red Sox,1901,Wally the Green Monster
+Los Angeles Dodgers,Dodgers,1883,desconocido
+Chicago Cubs,Cubs,1876,Clark
+San Francisco Giants,Giants,1883,Lou Seal
+St. Louis Cardinals,Cardinals,1882,Fredbird
+Houston Astros,Astros,1962,Orbit
+Philadelphia Phillies,Phillies,1883,Phillie Phanatic
+Atlanta Braves,Braves,1871,Blooper
+Cleveland Guardians,Guardians,1901,Slider
+Texas Rangers,Rangers,1961,Rangers Captain
+Miami Marlins,Marlins,1993,Billy the Marlin
+Milwaukee Brewers,Brewers,1969,Bernie Brewer
+Washington Nationals,Nationals,1969,Screech
+Arizona Diamondbacks,Diamondbacks,1998,D. Baxter the Bobcat
+Kansas City Royals,Royals,1969,Sluggerrr
+Baltimore Orioles,Orioles,1901,The Oriole Bird
+Tampa Bay Rays,Rays,1998,Raymond
+Minnesota Twins,Twins,1901,T.C. Bear
+Colorado Rockies,Rockies,1993,Dinger
+Seattle Mariners,Mariners,1977,Mariner Moose
+Toronto Blue Jays,Blue Jays,1977,Ace
+Oakland Athletics,Athletics (A's),1901,Stomper
+Detroit Tigers,Tigers,1894,Paws
+Pittsburgh Pirates,Pirates,1882,Pirate Parrot
+San Diego Padres,Padres,1969,Swinging Friar
+Los Angeles Angels,Angels,1961,Rally Monkey
+Cincinnati Reds,Reds,1881,Mr. Red
+Chicago White Sox,White Sox,1900,Southpaw
