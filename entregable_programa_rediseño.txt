@@ -1,0 +1,57 @@
+
+You said:
+Crear un programa de rediseño de la imagen de la marca del club de béisbol, incluyendo características de audiencias tradicionales (mayores que frecuentan periódicos, radio y televisión) y modernas (jóvenes que usan redes sociales como TikTok e Instagram), desarrollando acciones mensuales durante un año para posicionar al club en los medios de comunicación. Presentar el programa en formato CSV, con columnas que indiquen mes a mes las acciones a realizar y los mensajes a comunicar, asegurándose de no tocar temas sensibles para el club (como comparaciones con otros deportes o la falta de campeonatos recientes) y siempre ligando los anuncios a la mascota del equipo. Inspirarse en las opiniones de un agente externo de marketing para clubes de béisbol y utilizar técnicas de prompt engineering. Información particular a considerar: audiencia tradicional (mayores de 50 años, que frecuentan periódicos, radio y televisión) y audiencia moderna (jóvenes de 18 a 35 años, que usan redes sociales como TikTok e Instagram). La mascota del equipo debe ser el centro de los anuncios y mensajes.
+
+ChatGPT said:
+ChatGPT
+Para crear un programa de rediseño de la imagen de la marca del club de béisbol, organizaremos las acciones mensuales en un archivo CSV con columnas específicas que incluyen:
+
+Mes: Mes en que se realizará la acción.
+Audiencia: A qué tipo de audiencia está dirigida la acción (tradicional o moderna).
+Acción: Tipo de acción a realizar (campaña publicitaria, evento, colaboración, etc.).
+Mensaje: Mensaje a comunicar, asegurando que esté ligado a la mascota del equipo.
+Medio: Medio de comunicación o plataforma en la que se realizará la acción (periódico, radio, TikTok, Instagram, etc.).
+Programa de Rediseño de Imagen de Marca
+csv
+Copy code
+Mes,Audiencia,Acción,Mensaje,Medio
+Enero,Tradicional,Campaña publicitaria,"Conoce a Monty: la historia de nuestra querida mascota en tu periódico local.","Periódico"
+Enero,Moderna,Video viral,"Monty enseñando trucos de béisbol: ¡Aprende con el mejor! #MontyChallenge","TikTok, Instagram"
+Febrero,Tradicional,Entrevista en radio,"Entrevista exclusiva con Monty: Historias del equipo y valores que nos unen.","Radio"
+Febrero,Moderna,Colaboración con influencers,"Colaboración con influencers deportivos: Monty enseña movimientos icónicos del béisbol.","Instagram, YouTube"
+Marzo,Tradicional,Publicidad en televisión,"Spot televisivo: Monty y los valores de la familia en el béisbol.","Televisión"
+Marzo,Moderna,Campaña de memes,"Monty se une a los memes populares: comparte y gana entradas a los juegos.","Instagram, TikTok"
+Abril,Tradicional,Artículos en revistas,"Especial en revista: Monty y su impacto en la comunidad local.","Revista"
+Abril,Moderna,Historias interactivas,"Historias de Instagram interactuando con Monty en un día de juego.","Instagram"
+Mayo,Tradicional,Carteles en la ciudad,"Carteles publicitarios: Monty invitando a un juego especial con la familia.","Espacios públicos"
+Mayo,Moderna,Campaña de stickers,"Stickers digitales de Monty para WhatsApp y Instagram: ¡Colecciónalos todos!","WhatsApp, Instagram"
+Junio,Tradicional,Evento de firma de autógrafos,"Evento especial: Conoce a Monty y recibe su autógrafo en tu tienda local.","Tienda local"
+Junio,Moderna,Live Streaming,"Transmisión en vivo con Monty: detrás de cámaras y sesiones de preguntas y respuestas.","Instagram, YouTube"
+Julio,Tradicional,Columna mensual,"Columna en el periódico sobre la vida de Monty: relatos del pasado y visiones del futuro.","Periódico"
+Julio,Moderna,Campaña de retos,"Desafío mensual: Envía tu mejor imitación de Monty y gana premios.","TikTok, Instagram"
+Agosto,Tradicional,Publicidad en estaciones de radio,"Anuncios radiales con voz de Monty promoviendo eventos familiares del club.","Radio"
+Agosto,Moderna,Reels divertidos,"Reels de Monty explorando la ciudad, probando comidas locales, y más.","Instagram"
+Septiembre,Tradicional,Campaña de correo directo,"Envío de cartas personalizadas a seguidores fieles con mensajes de Monty y cupones de descuento.","Correo tradicional"
+Septiembre,Moderna,Filtros de realidad aumentada,"Lanzamiento de filtros de realidad aumentada con Monty en juegos de Instagram y Snapchat.","Instagram, Snapchat"
+Octubre,Tradicional,Publicidad de televisión,"Campaña televisiva destacando a Monty en diferentes roles dentro del equipo.","Televisión"
+Octubre,Moderna,Campaña de microvideos,"Microvideos diarios de Monty: humor, consejos y momentos del equipo.","TikTok"
+Noviembre,Tradicional,Evento de caridad,"Participación de Monty en eventos de caridad locales, reforzando la conexión comunitaria.","Eventos locales"
+Noviembre,Moderna,Campaña de fin de año,"Recapitulación de los mejores momentos de Monty durante el año con un montaje emotivo.","Instagram, YouTube"
+Diciembre,Tradicional,Especial navideño,"Spot navideño con Monty y su familia celebrando en el estadio.","Televisión"
+Diciembre,Moderna,Campaña de fin de año,"Countdown con Monty en TikTok: 12 días de sorpresas y regalos.","TikTok, Instagram"
+Este CSV está diseñado para cubrir tanto a las audiencias tradicionales como a las modernas, asegurando una comunicación efectiva a través de diferentes canales y medios, y siempre colocando a Monty, la mascota del equipo, en el centro de todas las campañas y mensajes. Además, las acciones están pensadas para generar engagement y reforzar la imagen de compañerismo, familia y comunidad sin tocar temas sensibles para el club.
+
+
+
+
+
+
+You said:
+separa por tipo de audiencia y genera los archivos csv para cada una
+ChatGPT said:
+ChatGPT
+He generado los archivos CSV separados para cada audiencia. Puedes descargarlos desde los siguientes enlaces:
+
+Audiencia Tradicional
+Audiencia Moderna
+Estos archivos contienen las acciones mensuales para cada tipo de audiencia, con Monty como el centro de las campañas y mensajes. ​
